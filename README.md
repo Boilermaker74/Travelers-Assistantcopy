@@ -48,7 +48,7 @@ The exchange rates and calculations are provided by the API, ExchangeRate-API lo
 
 The user picks the two currencies to convert. The user enters the amount to be converted in the left text box. When the exchange button is pressed, the converted amount appears in the right text box. 
 
-
+![Alt text](https://github.com/Boilermaker74/Travelers-Assistant/blob/main/assets/images/ccPeso.png?raw=true)
  
 
 The api provides user some user feedback. When a zero is entered in the source textbox, “undefined” is displayed in the destination textbox.

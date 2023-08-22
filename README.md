@@ -15,7 +15,7 @@ One accesses the url, https://boilermaker74.github.io/
 
 This brings up my portfolio .Clicking anywhere in the work section titled Traveler's Assistance will launch the application.
 
-
+![Alt text](image link)
 
 The application is composed of three major sections. 
 

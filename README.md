@@ -74,7 +74,11 @@ The application stores the information in local storage under the key “notes�
  
 When the application first loads, the local memory is read and the textarea is assigned whatever value is recorded. 
 
- 
+ ## Credits
+
+The api’s ExchangeRate-API and Mymemory provided examples of code it their documentation.  We would also like to thank my tutor, Weng Fei Fung, for his invaluable assistance.
+
+##License
 
 A test for the application can be accomplished by using 3 different operations, circling back to see if the final result resembles the original question. For example, translating the phrase “How much are the apples” from English to German gives the response, “wie viel sind die Äpfel”.  
  

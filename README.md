@@ -78,17 +78,24 @@ When the application first loads, the local memory is read and the textarea is a
 
 The api’s ExchangeRate-API and Mymemory provided examples of code it their documentation.  We would also like to thank my tutor, Weng Fei Fung, for his invaluable assistance.
 
-##License
+## License
 
-A test for the application can be accomplished by using 3 different operations, circling back to see if the final result resembles the original question. For example, translating the phrase “How much are the apples” from English to German gives the response, “wie viel sind die Äpfel”.  
+MIT License
+
+## Testing
+
+A test for the application can be accomplished by using 3 different operations, circling back to see if the final result resembles the original question. For example, translating the phrase “How much are the apples” from English to German gives the response, “wie viel sind die Äpfel”. 
+
+![Alt text](https://github.com/Boilermaker74/Travelers-Assistant/blob/main/assets/images/transEtoG.png?raw=true)
  
 This phrase translates into French yields, “combien sont les pommes”. 
  
+![Alt text](https://github.com/Boilermaker74/Travelers-Assistant/blob/main/assets/images/transGtoF.png?raw=true)
 
  Finally a translation of “combien sont les pommes”, back into English is “how much are apples”.
  
+![Alt text](https://github.com/Boilermaker74/Travelers-Assistant/blob/main/assets/images/transFtoE.png?raw=true)
 
 Comparing the initial phrase “How much are the apples” matched the final translation “how much apples”. The application passed this test at least.
 
-Comtributions 
-The api’s ExchangeRate-API and Mymemory provided examples of code it their documentation.  We would also like to thank my tutor, Weng Fei Fung, for his invaluable assistance.
+

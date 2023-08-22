@@ -16,7 +16,7 @@ This brings up my portfolio .Clicking anywhere in the work section titled Travel
 
 ![Alt text](assets/images/workassistant.png)
 
-## Installation
+## Usage
 
 The application is composed of three major sections. 
 

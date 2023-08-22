@@ -36,6 +36,8 @@ The translation source is an API, Mymemory located at https://mymemory.translate
  ![Alt text](https://github.com/Boilermaker74/Travelers-Assistant/blob/main/assets/images/pleaseselect.png?raw=true)
 
 The second section is a currency converter.
+
+![Alt text](https://github.com/Boilermaker74/Travelers-Assistant/blob/main/assets/images/Currency%20Covertor.png?raw=true)
  
 Two drop down menus  allows the user to pick a source currency and a destination to currency. The exchange rates and calculations are provided by the API, ExchangeRate-API located at  https://www.exchangerate-api.com.  Exchangerate claims to update the exchange rate as often as every sixty seconds. Therefore, the user can be confident that the rate is not obsolete. The user has 98 different currencies to reference by use of drop down menus.  
  

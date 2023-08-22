@@ -15,7 +15,7 @@ One accesses the url, https://boilermaker74.github.io/
 
 This brings up my portfolio .Clicking anywhere in the work section titled Traveler's Assistance will launch the application.
 
-![Alt text](image link)
+![Alt text]([image link](https://github.com/Boilermaker74/Travelers-Assistant/blob/main/assets/images/Currancy%20Convertor.png))
 
 The application is composed of three major sections. 
 

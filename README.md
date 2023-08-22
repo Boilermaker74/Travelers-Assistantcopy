@@ -96,6 +96,7 @@ This phrase translates into French yields, “combien sont les pommes”.
  
 ![Alt text](https://github.com/Boilermaker74/Travelers-Assistant/blob/main/assets/images/transFtoE.png?raw=true)
 
-Comparing the initial phrase “How much are the apples” matched the final translation “how much apples”. The application passed this test at least.
+Comparing the initial phrase “How much are the apples” matched the final translation “how much are apples”. The application passed this test at least.
+A similar test can be used for the currency converter.
 
 

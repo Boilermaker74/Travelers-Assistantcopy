@@ -52,10 +52,13 @@ The user picks the two currencies to convert. The user enters the amount to be c
  
 
 The api provides user some user feedback. When a zero is entered in the source textbox, “undefined” is displayed in the destination textbox.
- 
 
+![Alt text](https://github.com/Boilermaker74/Travelers-Assistant/blob/main/assets/images/CCundefined.png?raw=true)
+ 
 We assigned the type of the input box as “number” and a min value of zero.  This prevents the user from entering any value other than a positive number. 
  
+![Alt text](https://github.com/Boilermaker74/Travelers-Assistant/blob/main/CCinputbox.png?raw=true)
+
 
 Lastly, the application has a textarea dedicated to recording quick notes for the user.
  

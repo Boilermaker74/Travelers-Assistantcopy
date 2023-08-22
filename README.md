@@ -28,6 +28,8 @@ The first section is a translator.
 
 
 It provides drop down menus of 98 different languages that allows the user to choose independently a source and destination language. A text box allows the user to enter words and simple phrases. A separate textbox displays the result after the translate button is pressed.
+
+![Alt text](https://github.com/Boilermaker74/Travelers-Assistant/blob/main/assets/images/goodmorning.png?raw=true)
  
 The translation source is an API, Mymemory located at https://mymemory.translated.net.   The API provides some feedback for the user. If the translate button is pressed without placing text in the window, nothing happens. Likewise, if the user doesn’t choose two different languages, a message is displayed in the “translated” textbox.
 

@@ -24,7 +24,7 @@ The application is composed of three major sections.
 
 The first section is a translator.
 
-![Alt text](assets/images/Language Translator.png)
+![Alt text][(assets/images/Language Translator.png)
 
 
 It provides drop down menus of 98 different languages that allows the user to choose independently a source and destination language. A text box allows the user to enter words and simple phrases. A separate textbox displays the result after the translate button is pressed.

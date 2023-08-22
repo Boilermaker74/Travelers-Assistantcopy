@@ -23,7 +23,9 @@ The application is composed of three major sections.
 ![Alt text](https://github.com/Boilermaker74/Travelers-Assistant/assets/135560995/87f58676-2840-4a5d-b357-7fd12240747e)
 
 The first section is a translator.
- 
+
+![Alt text](assets/images/Language Translator.png)
+
 
 It provides drop down menus of 98 different languages that allows the user to choose independently a source and destination language. A text box allows the user to enter words and simple phrases. A separate textbox displays the result after the translate button is pressed.
  

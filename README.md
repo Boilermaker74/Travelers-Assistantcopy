@@ -22,11 +22,6 @@ The application is composed of three major sections.
 
 ![Alt text](https://github.com/Boilermaker74/Travelers-Assistant/assets/135560995/87f58676-2840-4a5d-b357-7fd12240747e)
 
-
-![Alt text](assets/images/Traveler's Assistant.png)
-
-
-
 The first section is a translator.
  
 

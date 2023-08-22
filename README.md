@@ -20,7 +20,7 @@ This brings up my portfolio .Clicking anywhere in the work section titled Travel
 
 The application is composed of three major sections. 
 
-![Alt text]([assets/images/Traveler's Assistant.png)
+![Alt text](assets/images/Traveler's Assistant.png)
 
 
 

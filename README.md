@@ -61,15 +61,19 @@ We assigned the type of the input box as “number” and a min value of zero.  
 
 
 Lastly, the application has a textarea dedicated to recording quick notes for the user.
+
+![Alt text](https://github.com/Boilermaker74/Travelers-Assistant/blob/main/assets/images/Notes%20for%20traveler.png?raw=true)
  
 The user can type in quick notes to keep until they have the opportunity to record them permanently.
+
+![Alt text](https://github.com/Boilermaker74/Travelers-Assistant/blob/main/assets/images/lovebcapp.png?raw=true)
+
 The application stores the information in local storage under the key “notes”. A keyup event listener records the textarea as a string and records it dynamically as the text is typed.  
  
-
+![Alt text](https://github.com/Boilermaker74/Travelers-Assistant/blob/main/assets/images/lovebcmem.png?raw=true)
  
-
 When the application first loads, the local memory is read and the textarea is assigned whatever value is recorded. 
-Installation is not necessary as the application runs completely in the web browser.  One accesses the http blah. This brings up my portfolio .Clicking anywhere in the work section titled Traveler’s Assistance will launch the application.
+
  
 
 A test for the application can be accomplished by using 3 different operations, circling back to see if the final result resembles the original question. For example, translating the phrase “How much are the apples” from English to German gives the response, “wie viel sind die Äpfel”.  

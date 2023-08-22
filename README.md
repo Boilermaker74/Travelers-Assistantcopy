@@ -33,7 +33,7 @@ It provides drop down menus of 98 different languages that allows the user to ch
  
 The translation source is an API, Mymemory located at https://mymemory.translated.net.   The API provides some feedback for the user. If the translate button is pressed without placing text in the window, nothing happens. Likewise, if the user doesn’t choose two different languages, a message is displayed in the “translated” textbox.
 
- 
+ ![Alt text](https://github.com/Boilermaker74/Travelers-Assistant/blob/main/assets/images/pleaseselect.png?raw=true)
 
 The second section is a currency converter.
  

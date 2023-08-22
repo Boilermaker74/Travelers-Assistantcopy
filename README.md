@@ -15,7 +15,7 @@ One accesses the url, https://boilermaker74.github.io/
 
 This brings up my portfolio .Clicking anywhere in the work section titled Traveler's Assistance will launch the application.
 
-![alt text](./assets/images/Traveler's Assistant.png)
+![alt text][(./assets/images/Traveler's Assistant.png)](https://github.com/Boilermaker74/Travelers-Assistant/blob/main/assets/images/Traveler's%20Assistant.png)
 
 
 

@@ -7,19 +7,20 @@ It is designed to assist a user who is traveling in an unfamiliar country, with 
 The combination of the language translator and currency converter will hopefully allow the user to complete simple business transactions such as buying a meal or renting a room without having to rely on “the kindness of strangers”. 
 This application taught me many things. Firstly, it helped me to understand the process of accessing a third party API. It gave me my first experience coding in collaborate environment. It also gave me experience integrating and embedding code from different projects into one program package. This was also my first introduction with the styling code, tailwinds.
 
-### Installation
+## Installation
 
 Installation is not necessary as the application runs completely in the web browser.  
 One accesses the url, https://boilermaker74.github.io/
-
 
 This brings up my portfolio .Clicking anywhere in the work section titled Traveler's Assistance will launch the application.
 
 ![Alt text](assets/images/workassistant.png)
 
+##Useage
+
 The application is composed of three major sections. 
 
-
+![Alt text]([assets/images/Traveler's%20Assistant.png?raw=true)
 
 
 
